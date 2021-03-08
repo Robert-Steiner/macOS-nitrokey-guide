@@ -31,11 +31,7 @@ as the admin PIN. By default, the user PIN has the value `123456`, and the admin
 
 **Install Nitrokey App**
 
-```shell
-brew tap homebrew/cask-drivers
-brew cask install nitrokey
-open /Applications/Nitrokey App v1.4.app
-```
+[Nitrokey App Releases](https://github.com/Nitrokey/nitrokey-app/releases)
 
 ## Set up GnuPG
 
